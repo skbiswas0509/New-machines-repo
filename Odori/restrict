@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#/usr/lib/openssh/sftp-server -d $1
+bash
